@@ -32,7 +32,7 @@ aside{
     position: absolute;
     z-index: 9;
     background: white;
-    top: 32%;
+    top: 36%;
     left:6%;
     border-radius: 0 22px 22px  0px;
     -webkit-box-shadow: 11px -2px 31px -14px rgba(0,0,0,0.75);
@@ -172,6 +172,12 @@ aside{
 {   word-break: break-all;
     padding-top: 39%;
     font-size: 15px;
+}
+
+.Lyicon,.Fricon
+{
+    padding-top: 35%;
+
 }
 .center
 {margin: auto;}
